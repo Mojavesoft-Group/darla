@@ -48,3 +48,5 @@ Example: `<darla-home/>`
 Add a watermark at the bottom of the document that says `Generated using Darla [version number]. [copyright statement]` where `[version number]` is the current version of Darla and `[copyright statement]` is the value of the `copyright` attribute.
 
 In HTML, this watermark is rendered in small italics using a serif font, aligned to the right of the page.
+
+Example: `<darla-footer copyright="All rights reserved."/>`
