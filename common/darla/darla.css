@@ -1,0 +1,23 @@
+/* Modified version of Mojavesoft's default style.css (as of March 2026) for general use.
+For the latest version, visit https://mojavesoft.net/common/xml/darla.css. */
+
+p,h1,h2,h3,h4,h5,h6,li,label,summary{font-family: Arial, sans-serif;}
+i {font-family: serif;}
+body {background-color: silver;}
+hr {border: 0; border-top: #929191 solid 0.5px; box-shadow: 0 0.9px 0 #faf9f9  }
+
+ul, ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    max-width: 90%  !important;
+    max-height: 100vh  !important;
+    height: auto  !important;
+}
+
+.default-size {font-size: 1em;}
+.big-text {font-size: x-large}
+.sans-serif {font-family: Arial, sans-serif;}
+.darla-right {text-align: right;}
