@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <doc header="Something cool" title="Something cool" style="/common/darla/darla.css">
-    <img src="/common/mascot26anim.gif" alt="Lorem ipsum!"/>
     <hr/>
     <p>Thank you for visiting the <i>Something cool</i> website!</p>
     <a href="https://example.com">A link! <b>Awesome!</b></a>
